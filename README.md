@@ -2,7 +2,7 @@
 
 # Preact
 
-Пример приложения [Preact](https://preactjs.com/), которое можно развернуть в Timeweb Cloud Apps без настройки.
+Пример приложения [Preact](https://preactjs.com/), которое можно развернуть в **Timeweb Cloud Apps** без настройки.
 
 :tada: [Демо](https://mikhail-shpakov-twc-app-example-preact-b58f.twc1.net/)
 
@@ -10,7 +10,7 @@
 
 :books: [Документация Timeweb Cloud Apps](https://timeweb.cloud/docs/apps)
 
-## :wrench: <a name="dev"></a>Локальный запуск проекта
+## <a name="dev"></a>Локальный запуск проекта
 
 ```bash
 # установка зависимостей
