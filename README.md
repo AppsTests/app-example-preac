@@ -4,7 +4,7 @@
 
 Пример приложения [Preact](https://preactjs.com/), которое можно развернуть в **Timeweb Cloud Apps** без настройки.
 
-:tada: [Демо](https://mikhail-shpakov-twc-app-example-preact-b58f.twc1.net/)
+:tada: [Демо](https://timeweb-cloud-app-example-preact-4ed2.twc1.net)
 
 :rocket: [Создать свой Apps](https://timeweb.cloud/my/apps/create)
 
